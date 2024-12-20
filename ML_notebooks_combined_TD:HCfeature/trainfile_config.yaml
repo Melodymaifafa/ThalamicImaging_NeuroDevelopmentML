@@ -1,0 +1,17 @@
+
+training_file: 'normalizedata_TDHC.csv'
+
+# 'normalized_echogenicity_cat.csv'
+# 'thalamus_echogenicity_cat.csv'
+# final_high_quality_TDHC.csv
+
+output_dir: 'results_TDHCversion1'
+# 'results_radiomic'
+# 
+# 'results_unnormalized _cat'
+# 
+
+target: 'BIIICss'
+# 'BIIICss','BIIIRss','BIIIEss','Language Ability'
+
+feature_selection_method: 'None'
