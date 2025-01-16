@@ -72,6 +72,7 @@ Models used:
 <div align="center">
     <img src="results/Graph/comparison.png" alt="Results comparison" width="600"/>
 </div>
+
 ### **1. Fetal Thalamic Radiomic Features as Predictive Biomarkers**
 - Machine learning models demonstrated that **fetal thalamic radiomic features** have the potential to predict neurodevelopmental outcomes.  
 - The highest AUC scores achieved are:
@@ -79,6 +80,7 @@ Models used:
     <img src="results/Graph/Cognitive_Ability_normalized_features.png" alt="Cognitive Ability" width="45%"/>
     <img src="results/Graph/Expressive_Language_Ability_normalized_features.png" alt="Expressive Language Ability" width="45%"/>
 </div>
+
   - **Cognitive Ability**: **0.71** (KNN with normalized features) 
   - **Expressive Language Ability**: **0.70** (Logistic Regression with normalized features)  
   - **Receptive Language Ability**: **0.66** (Random Forest with unnormalized features)  
@@ -104,6 +106,7 @@ This indicates that variations in fetal thalamic echogenicity are associated wit
 <div align="center">
   <img src="results/Graph/normalized_data_corr.png" alt="Feature correlation with targets" width="600"/>
 </div>  
+
 - **Small Dataset**: Limited to **315 images** with few positive cases.  
 - **Manual Annotation**: Potential variability in ROI labeling.  
 
