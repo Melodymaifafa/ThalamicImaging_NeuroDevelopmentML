@@ -1,4 +1,4 @@
-# **Fetal Thalamus Ultrasound ML Pipeline for Predicting Neurodevelopmental Outcomes**
+# **Using Fetal Thalamus Ultrasound to Predict Neurodevelopmental Outcomes, Machine Learning Approach**
 
 ## **Project Overview**
 This project explores the relationship between fetal thalamic ultrasound echogenicity and children’s neurodevelopmental outcomes using machine learning (ML). The study aims to predict **cognitive, expressive, and receptive language abilities** in children as assessed by the **Bayley III Scales**. Radiomic features extracted from fetal brain ultrasound images were analyzed using various ML models.
